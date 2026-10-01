@@ -6,6 +6,10 @@
 
 <p align="center"><img src="docs/screenshots/srt-translator.png" alt="SRT Translator screenshot" width="900"></p>
 
+## How it works
+
+<p align="center"><img src="docs/screenshots/how-it-works.png" alt="How it works" width="900"></p>
+
 ## What it does
 
 - Two engines: **Claude API** (best quality, bring your own key) and **MyMemory** (free, for testing)
